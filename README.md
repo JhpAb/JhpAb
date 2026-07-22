@@ -11,7 +11,3 @@
     
   </a>
 </h2>
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif" alt="Coding GIF"/>
-</div>
