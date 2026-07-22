@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Jean Pierre ABBE]</h1>
+<h1 align="center">Hi there 👋 <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm Jean Pierre ABBE</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=[Jean Pierre ABBE]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Data Analyst/ Scientist
