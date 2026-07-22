@@ -179,10 +179,6 @@ Technologies:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhpAb&theme=tokyonight&hide_border=false&include_all_commits=true)
-
-<br>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhpAb&theme=tokyonight)
 
 <br>
