@@ -3,7 +3,8 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME_GITHUB&color=dc143c&style=for-the-badge" alt="Profile Views"/>
+  <img width="288" height="288" alt="ABJP" src="https://github.com/user-attachments/assets/e447af7d-0af6-48ad-9cf6-5f223005f609" />
+
 
   Data Analyst | Data Scientist
 
