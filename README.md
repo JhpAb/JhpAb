@@ -17,3 +17,6 @@
 <h3 align="center">
   Data Analyst | Data Scientist
 </h3>
+<p align="center">
+  📊 Data Analytics • 🤖 Machine Learning • 📈 Business Intelligence • 🐍 Python • 🗄️ SQL • 📊 Power BI
+</p>
