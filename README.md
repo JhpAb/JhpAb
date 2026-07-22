@@ -187,7 +187,7 @@ Technologies:
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhpAb&theme=tokyonight&layout=compact)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=JhpAb&theme=tokyo-night)
 
 </div>
 
