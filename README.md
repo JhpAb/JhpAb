@@ -5,11 +5,10 @@
 <h2 align="center">
   <img width="288" height="288" alt="ABJP" src="https://github.com/user-attachments/assets/e447af7d-0af6-48ad-9cf6-5f223005f609" />
 
-
   Data Analyst | Data Scientist
 
   <a href="https://ton-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    
   </a>
 </h2>
 
